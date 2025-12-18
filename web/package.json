@@ -187,7 +187,7 @@
     "magicast": "^0.3.4",
     "postcss": "^8.4.47",
     "sass": "^1.80.3",
-    "storybook": "8.5.0",
+    "storybook": "8.6.15",
     "tailwindcss": "^3.4.14",
     "ts-node": "^10.9.2",
     "typescript": "4.9.5",
